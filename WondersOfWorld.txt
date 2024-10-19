@@ -1,0 +1,142 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>7 Wonders of the World</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f0f0f0;
+        }
+
+        section {
+            background-color: #ffffff;
+            padding: 20px;
+            margin: 20px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        h1 {
+            color: #00698f;
+        }
+
+        img {
+            width: 100%;
+            height: auto;
+            margin-bottom: 20px;
+        }
+
+        table {
+            border-collapse: collapse;
+            width: 100%;
+            margin-top: 20px;
+        }
+
+        th, td {
+            border: 1px solid #ddd;
+            padding: 10px;
+            text-align: left;
+        }
+
+        th {
+            background-color: #f0f0f0;
+        }
+    </style>
+</head>
+<body>
+    <section id="introduction">
+	<center><h1>7 Wonders of the World<h1></center>
+        <h2>Introduction to the 7 Wonders of the World</h2>
+        <p>The Seven Wonders of the World are remarkable constructions that showcase the creativity and ingenuity of humanity. They represent a variety of cultures and histories, each with 	its unique story.</p>
+<p>The "Wonders of the World" highlights remarkable human-made structures and natural phenomena, primarily categorized into the Seven Wonders of the Ancient World and the New Seven Wonders of the World. The Ancient Wonders include the Great Pyramid of Giza, Hanging Gardens of Babylon, Statue of Zeus at Olympia, Temple of Artemis at Ephesus, Mausoleum at Halicarnassus, Colossus of Rhodes, and Lighthouse of Alexandria, showcasing extraordinary architectural feats of antiquity. In contrast, the New Wonders, determined by a global poll in 2007, consist of the Great Wall of China, Petra, Christ the Redeemer, Machu Picchu, Chichen Itza, Roman Colosseum, and Taj Mahal, reflecting significant cultural and historical achievements across different civilizations. Each wonder embodies unique artistry and engineering, representing the rich heritage of its region.</p>
+        <img src="wonders-introduction.webp" alt="Wonders of the World">
+    </section>
+    <section id="explanation">
+        <h1>Explanation of Each Wonder</h1>
+        <details>
+            <summary><strong>1. Great Wall of China</strong></summary>
+		<img src="Great Wall of China.jpg" alt="Great Wall of China">
+            <p>The Great Wall stretches over 13,000 miles and was built to protect Chinese states from invasions.</p>
+        </details>
+        <details>
+            <summary><strong>2. Petra, Jordan</strong></summary>
+		<img src="Petra, Jordan.jpg" alt="Petra, Jordan">
+            <p>Petra is known for its rock-cut architecture and water conduit system, dating back to the 5th century BC.</p>
+        </details>
+        <details>
+            <summary><strong>3. Christ the Redeemer, Brazil</strong></summary>
+		<img src="Christ the Redeemer.jpg" alt="Christ the Redeemer">
+            <p>This iconic statue of Jesus Christ stands 98 feet tall and overlooks the city of Rio de Janeiro.</p>
+        </details>
+        <details>
+            <summary><strong>4. Machu Picchu, Peru</strong></summary>
+		<img src="Machu Picchu.jpg" alt="Machu Picchu">
+            <p>Machu Picchu is an ancient Incan city located high in the Andes Mountains, known for its archaeological significance.</p>
+        </details>
+        <details>
+            <summary><strong>5. Chichen Itza, Mexico</strong></summary>
+		<img src="Chichen Itza, Mexico.jpg" alt="Chichen Itza, Mexico">
+            <p>This ancient Mayan city features the pyramid El Castillo and is a UNESCO World Heritage site.</p>
+        </details>
+        <details>
+            <summary><strong>6. Roman Colosseum, Italy</strong></summary>
+		<img src="Roman Colosseum, Italy.jpg" alt="Roman Colosseum, Italy">
+            <p>The Colosseum is an ancient amphitheater in Rome, known for its grandeur and historical significance.</p>
+        </details>
+        <details>
+            <summary><strong>7. Taj Mahal, India</strong></summary>
+		<img src="Taj Mahal, India.jpg" alt="Taj Mahal, India">
+            <p>The Taj Mahal is a mausoleum built in memory of Mumtaz Mahal, known for its stunning architecture and gardens.</p>
+        </details>
+    </section>
+    <section id="table">
+        <h1>Summary Table of the 7 Wonders</h1>
+        <table>
+            <tr>
+                <th>Wonder</th>
+                <th>Location</th>
+                <th>Year Built</th>
+            </tr>
+            <tr>
+                <td>Great Wall of China</td>
+                <td>China</td>
+                <td>7th century BC</td>
+            </tr>
+            <tr>
+                <td>Petra</td>
+                <td>Jordan</td>
+                <td>5th century BC</td>
+            </tr>
+            <tr>
+                <td>Christ the Redeemer</td>
+                <td>Brazil</td>
+                <td>1931</td>
+            </tr>
+            <tr>
+                <td>Machu Picchu </td>
+                <td>Peru</td>
+                <td>15th century</td>
+            </tr>
+            <tr>
+                <td>Chichen Itza</td>
+                <td>Mexico</td>
+                <td>6th century</td>
+            </tr>
+            <tr>
+                <td>Roman Colosseum</td>
+                <td>Italy</td>
+                <td>80 AD</td>
+            </tr>
+            <tr>
+                <td>Taj Mahal</td>
+                <td>India</td>
+                <td>1653</td>
+            </tr>
+        </table>
+    </section>
+</body>
+</html>
